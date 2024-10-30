@@ -1,4 +1,4 @@
-# 2020732018-kimjihoon
+# 20000318-kimjihoon
 
 ### 이 repositoy는,
 *Remote repository의 생성
